@@ -3,7 +3,6 @@
 [![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Learning-by](https://img.shields.io/badge/Learned%20From-Satish%20Dhawale-blue.svg)]()
 
 > 📊 An interactive **Hospital Emergency Room Analysis Dashboard** built entirely in **Microsoft Excel**, focusing on patient admissions, waiting time analysis, gender distribution, and departmental referrals.  
 > This project helped me understand how to turn healthcare data into meaningful insights using **Excel charts, slicers, and formulas**.
