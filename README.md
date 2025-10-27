@@ -20,8 +20,6 @@ It allows hospital administrators to monitor key metrics such as:
 - Gender and Age Group Distributions  
 - Department-wise Referral Trends  
 
-📘 *Created as part of my learning journey under the mentorship of [Satish Dhawale](https://www.linkedin.com/in/satishdhawale/).*  
-
 ---
 
 ## 🧭 **Dashboard Preview**
@@ -182,7 +180,7 @@ THE SOFTWARE.
 ## 👨‍💻 **Author**
 **Ankit Kumar**  
 📧 Email: ankitkumar2716@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/ankit-kumar-80888a245)  
+🔗 [LinkedIn](https:www.linkedin.com/in/ankit-kumar-80888a245)  
 
 > *Made with 💚 in Excel while learning from Satish Dhawale.*
 
